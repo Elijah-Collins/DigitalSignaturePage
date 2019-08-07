@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
 <body>
-    <h1>What is a Digital Signature</h1>
+    <h2>What is a Digital Signature?</h2>
     <p>A digital signature is a way or scheme to find out the authenticity of a digital messages, information and documents. It can guarantee the contents of a message, which may or may not have altered with. You may also add a hash to view the message contents using either a public or private pair key.</p>
     <h2>Who started this?</h2>
     <p>In 1977, Ronald Rivest, Adi Shamir and Len Adleman invented the digital signature.</p>
