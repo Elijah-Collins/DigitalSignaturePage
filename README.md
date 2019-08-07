@@ -1,3 +1,4 @@
+<<<<<<< refs/remotes/origin/Descriptions
 # DigitalSignaturePage
 <!DOCTYPE html> 
 <head>
@@ -22,3 +23,6 @@
     Instantssl.com
     Cryptomathic.com</p>
 </html>
+=======
+# DigSignaturePage
+>>>>>>> Preparation to Merge into Master.
