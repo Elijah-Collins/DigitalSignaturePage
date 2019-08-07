@@ -2,8 +2,6 @@
 <!DOCTYPE html> 
 <head>
     <meta charset="UTF-8">
-<title>Digital Signiture</title>
-</head>
 <body>
     <h1>What is a Digital Signature</h1>
     <p>A digital signature is a way or scheme to find out the authenticity of a digital messages, information and documents. It can guarantee the contents of a message, which may or may not have altered with. You may also add a hash to view the message contents using either a public or private pair key.</p>
