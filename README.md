@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+<<<<<<< refs/remotes/origin/Descriptions
+<<<<<<< refs/remotes/origin/Descriptions
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+# DigSignaturePage
+=======
+# DigSig
+>>>>>>> Stashed changes
+=======
+>>>>>>> CodingEffects
 # DigitalSignaturePage
 <!DOCTYPE html> 
 <head>
@@ -22,3 +34,17 @@
     Instantssl.com
     Cryptomathic.com</p>
 </html>
+<<<<<<< HEAD
+=======
+# DigSignaturePage
+>>>>>>> Preparation to Merge into Master.
+=======
+<<<<<<< Updated upstream
+# DigSignaturePage
+=======
+# DigSig
+>>>>>>> Stashed changes
+>>>>>>> merging 'fake master' into Coding Effects
+=======
+>>>>>>> Descriptions
+>>>>>>> CodingEffects
