@@ -1,4 +1,5 @@
 <<<<<<< refs/remotes/origin/Descriptions
+<<<<<<< refs/remotes/origin/Descriptions
 # DigitalSignaturePage
 <!DOCTYPE html> 
 <head>
@@ -26,3 +27,10 @@
 =======
 # DigSignaturePage
 >>>>>>> Preparation to Merge into Master.
+=======
+<<<<<<< Updated upstream
+# DigSignaturePage
+=======
+# DigSig
+>>>>>>> Stashed changes
+>>>>>>> merging 'fake master' into Coding Effects
