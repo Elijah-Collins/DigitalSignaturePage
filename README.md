@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+# DigSignaturePage
+=======
+# DigSig
+>>>>>>> Stashed changes
+=======
 # DigitalSignaturePage
 <!DOCTYPE html> 
 <head>
@@ -24,3 +31,4 @@
     Instantssl.com
     Cryptomathic.com</p>
 </html>
+>>>>>>> Descriptions
