@@ -1,16 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< refs/remotes/origin/Descriptions
+<<<<<<< refs/remotes/origin/Descriptions
+=======
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 # DigSignaturePage
 =======
 # DigSig
 >>>>>>> Stashed changes
 =======
+>>>>>>> CodingEffects
 # DigitalSignaturePage
 <!DOCTYPE html> 
 <head>
     <meta charset="UTF-8">
-<title>Digital Signiture</title>
-</head>
 <body>
     <h1>What is a Digital Signature</h1>
     <p>A digital signature is a way or scheme to find out the authenticity of a digital messages, information and documents. It can guarantee the contents of a message, which may or may not have altered with. You may also add a hash to view the message contents using either a public or private pair key.</p>
@@ -31,4 +34,17 @@
     Instantssl.com
     Cryptomathic.com</p>
 </html>
+<<<<<<< HEAD
+=======
+# DigSignaturePage
+>>>>>>> Preparation to Merge into Master.
+=======
+<<<<<<< Updated upstream
+# DigSignaturePage
+=======
+# DigSig
+>>>>>>> Stashed changes
+>>>>>>> merging 'fake master' into Coding Effects
+=======
 >>>>>>> Descriptions
+>>>>>>> CodingEffects
